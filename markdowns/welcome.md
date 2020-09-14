@@ -17,6 +17,8 @@ Les fonctionnalités :
 
 @[Manage with paper]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "paper"})
 
+<!--
+
 #TEST PHP INCLUDE
 
 Déclarer un entier `a` et un entier `b`.
@@ -40,3 +42,4 @@ Ecrire la prototype de la fonction `ma_fct`
 
 @[PHP - C]({"stubs": ["contents.php"],"command": "sh /project/target/run.sh canvas_2.php", "project" : "php2"})
 
+-->
